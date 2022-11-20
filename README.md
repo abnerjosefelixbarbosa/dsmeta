@@ -18,6 +18,7 @@ App fullstack que lista os vendedores no periodo entre duas datas e envia os dad
 
 - react.js
 - axios
+- toast
 
 ## Backend
 
