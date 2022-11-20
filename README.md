@@ -7,8 +7,6 @@
 
 App fullstack que lista os vendedores no periodo entre duas datas e envia os dados do vendedor selecionado, por SMS, que bateu a meta de vendas.
 
-## Modelo conceitual
-
 # Features
 
 - Listar vendedor no periodo entre duas datas.
